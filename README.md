@@ -6,32 +6,32 @@ Someone who has an interest in the field of computers, such as conducting severa
 
 ### have experience with
 
-<a href="https://devicon.dev"><img alt="github" style="background-color: white;border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="json" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="kalilinux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="arduino uno" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="ngrok" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="google colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="nano" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="40" /></a>
-<a href="https://devicon.dev"><img alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40" width="40" /></a>
-<a href="https://brandfetch.com/orangedatamining.com"><img alt="orange data mining" src="https://cdn.brandfetch.io/id5u6Mq3NA/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" width="40" /></a>
-<a href="https://commons.wikimedia.org/wiki/File:DaVinci_Resolve_17_logo.svg"><img alt="davinci resolve" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" width="40" /></a>
-<a href="https://github.com/offensive-vk"><img alt="apache" src="https://raw.githubusercontent.com/offensive-vk/Icons/a2775d66266f10699b36b18ed6fe54b8a54e3789/apache/apache-line-wordmark.svg" height="40" width="40" /></a>
-<a href="https://techicons.dev/"><img alt="ssh" src="https://icon.icepanel.io/Technology/svg/SSH.svg" height="40" width="40" /></a>
-<a href="https://commons.wikimedia.org/wiki/File:MediaWiki-2020-icon.svg"><img alt="mediawiki" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" height="40" width="40" /></a>
-<a href="https://hexmos.com"><img alt="metasploit" src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" height="40" width="40" /></a>
+<a href="https://github.com/"><img alt="github" style="background-color: white;border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" /></a>
+<a href="https://www.python.org/"><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" /></a>
+<a href="https://developer.android.com/studio"><img alt="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40" /></a>
+<a href="https://www.java.com/"><img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" /></a>
+<a href="https://www.cloudflare.com/"><img alt="cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" /></a>
+<a href="https://source.android.com/"><img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" width="40" /></a>
+<a href="https://anaconda.org/"><img alt="anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height="40" width="40" /></a>
+<a href="https://jupyter.org/"><img alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40" /></a>
+<a href="https://www.json.org/"><img alt="json" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="40" width="40" /></a>
+<a href="https://www.kali.org/"><img alt="kalilinux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" height="40" width="40" /></a>
+<a href="https://nginx.org/"><img alt="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" width="40" /></a>
+<a href="https://www.arduino.cc/"><img alt="arduino uno" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" width="40" /></a>
+<a href="https://www.docker.com/"><img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" /></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" /></a>
+<a href="https://www.debian.org/"><img alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40" /></a>
+<a href="https://ngrok.com/"><img alt="ngrok" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" width="40" /></a>
+<a href="https://colab.research.google.com/"><img alt="google colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="40" width="40" /></a>
+<a href="https://www.nano-editor.org/"><img alt="nano" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="40" width="40" /></a>
+<a href="https://www.canva.com/"><img alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="40" /></a>
+<a href="https://ubuntu.com"><img alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40" width="40" /></a>
+<a href="https://orangedatamining.com/"><img alt="orange data mining" src="https://cdn.brandfetch.io/id5u6Mq3NA/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" width="40" /></a>
+<a href="https://www.blackmagicdesign.com/"><img alt="davinci resolve" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" width="40" /></a>
+<a href="https://httpd.apache.org/"><img alt="apache" src="https://raw.githubusercontent.com/offensive-vk/Icons/a2775d66266f10699b36b18ed6fe54b8a54e3789/apache/apache-line-wordmark.svg" height="40" width="40" /></a>
+<a href="https://www.openssh.org/"><img alt="ssh" src="https://icon.icepanel.io/Technology/svg/SSH.svg" height="40" width="40" /></a>
+<a href="https://www.mediawiki.org/"><img alt="mediawiki" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" height="40" width="40" /></a>
+<a href="https://www.metasploit.com/"><img alt="metasploit" src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" height="40" width="40" /></a>
 
 ### currently learning/planned to learn
 
