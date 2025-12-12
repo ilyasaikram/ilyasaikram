@@ -29,7 +29,7 @@ Someone who has an interest in the field of computers, such as conducting severa
 <a href="https://orangedatamining.com/"><img alt="orange data mining" src="https://cdn.brandfetch.io/id5u6Mq3NA/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" width="40" /></a>
 <a href="https://www.blackmagicdesign.com/"><img alt="davinci resolve" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" width="40" /></a>
 <a href="https://httpd.apache.org/"><img alt="apache" src="https://raw.githubusercontent.com/offensive-vk/Icons/a2775d66266f10699b36b18ed6fe54b8a54e3789/apache/apache-line-wordmark.svg" height="40" width="40" /></a>
-<a href="https://www.openssh.org/"><img alt="ssh" src="https://icon.icepanel.io/Technology/svg/SSH.svg" height="40" width="40" /></a>
+<a href="https://www.openssh.org/"><img alt="ssh" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ssh-icon.svg" height="40" width="40" /></a>
 <a href="https://www.mediawiki.org/"><img alt="mediawiki" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" height="40" width="40" /></a>
 <a href="https://www.metasploit.com/"><img alt="metasploit" src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" height="40" width="40" /></a>
 
