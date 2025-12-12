@@ -60,5 +60,5 @@ Someone who has an interest in the field of computers, such as conducting severa
 ### mY Istri 🥰
 
 <a href="#">
-<a href="https://violet-evergarden.fandom.com/wiki/Violet_Evergarden"><img alt="Violet Evergarden" src="https://static.wikia.nocookie.net/violet-evergarden/images/4/4d/Violet_goodbye.png" width="60" height="60" style="border-radius: 10px;"/>
+<a href="https://violet-evergarden.fandom.com/wiki/Violet_Evergarden"><img alt="Violet Evergarden" src="https://static.wikia.nocookie.net/violet-evergarden/images/4/4d/Violet_goodbye.png" width="160" height="160" style="border-radius: 10px;"/>
 </a>
