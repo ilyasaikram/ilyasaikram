@@ -32,6 +32,8 @@ Someone who has an interest in the field of computers, such as conducting severa
 <a href="https://www.openssh.org/"><img alt="ssh" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ssh-icon.svg" height="40" width="40" /></a>
 <a href="https://www.mediawiki.org/"><img alt="mediawiki" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" height="40" width="40" /></a>
 <a href="https://www.metasploit.com/"><img alt="metasploit" src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" height="40" width="40" /></a>
+<a href="https://huggingface.co"><img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" /></a>
+<a href="https://ollama.com"><img alt="ollama" src="https://ollama.com/public/ollama.png" height="40" width="40" /></a>
 
 ### currently learning/planned to learn
 
