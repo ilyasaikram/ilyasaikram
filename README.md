@@ -37,7 +37,7 @@ Someone who has an interest in the field of computers, such as conducting severa
 
 ### currently learning/planned to learn
 
- - **🔳 AI/ML with Python**
+ - **🔳 AI/ML with Python and Orange Data Mining**
  - **🔳 Network Cyber Security**
  - **🔳 Android Operating System modification**
  - **🔳 Dataset collection with IoT sensors**
