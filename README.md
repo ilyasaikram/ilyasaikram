@@ -26,7 +26,7 @@ Someone who has an interest in the field of computers, such as conducting severa
 <a href="https://devicon.dev"><img alt="nano" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="40" width="40" /></a>
 <a href="https://devicon.dev"><img alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="40" /></a>
 <a href="https://devicon.dev"><img alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40" width="40" /></a>
-<a href="https://brandfetch.com/orangedatamining.com"><img alt="orange data mining" src="https://cdn.brandfetch.io/id5u6Mq3NA/theme/dark/logo.svg" height="40" width="40" /></a>
+<a href="https://brandfetch.com/orangedatamining.com"><img alt="orange data mining" src="https://cdn.brandfetch.io/id5u6Mq3NA/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" width="40" /></a>
 <a href="https://commons.wikimedia.org/wiki/File:DaVinci_Resolve_17_logo.svg"><img alt="davinci resolve" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" width="40" /></a>
 <a href="https://github.com/offensive-vk"><img alt="apache" src="https://raw.githubusercontent.com/offensive-vk/Icons/a2775d66266f10699b36b18ed6fe54b8a54e3789/apache/apache-line-wordmark.svg" height="40" width="40" /></a>
 <a href="https://techicons.dev/"><img alt="ssh" src="https://icon.icepanel.io/Technology/svg/SSH.svg" height="40" width="40" /></a>
