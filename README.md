@@ -1,14 +1,14 @@
 ## Hello i'm Ilyasa Alvirgia Ikram 
 
-Someone who has an interest in the field of computers, such as conducting several experiments using Linux, building and managing a server or network, conducting pentesting with several tools, besides that I also like graphic design, such as making posters, editing videos and photos, and I also have an interest in the field of Internet Of Think's such as creating several IoT projects with Arduino, ESP8622, and modify Android.
+Someone who has an interest in the field of computers, such as conducting several experiments using Linux, building and managing a server or network, conducting pentesting with several tools, besides that I also like graphic design, such as making posters, editing videos and photos, and I also have an interest in the field of Internet Of Think's such as creating several IoT projects with Arduino, and modify Android.
 
-## <a href="https://icons8.com/"><img width="24" height="24" src="https://img.icons8.com/fluency/48/design.png" alt="design"/></a> My Skillset
+## <a href="https://icons8.com/"><img width="24" height="24" src="https://raw.githubusercontent.com/ilyasaikram/ilyasaikram/refs/heads/main/icon/skillset.png" alt="design"/></a> My Skillset
 
 ### have experience with
 
-<a href="https://github.com/"><img alt="github" style="background-color: white;border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" /></a>
-<a href="https://www.python.org/"><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" /></a>
-<a href="https://developer.android.com/studio"><img alt="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40" /></a>
+<a href="https://github.com/"><img alt="github" style="background-color: white;border-radius: 50%;" src="https://raw.githubusercontent.com/ilyasaikram/ilyasaikram/refs/heads/main/icon/github.svg" height="40" width="40" /></a>
+<a href="https://www.python.org/"><img alt="python" src="https://raw.githubusercontent.com/ilyasaikram/ilyasaikram/refs/heads/main/icon/python.svg" height="40" width="40" /></a>
+<a href="https://developer.android.com/studio"><img alt="android studio" src="https://raw.githubusercontent.com/ilyasaikram/ilyasaikram/refs/heads/main/icon/androidstudio.svg" height="40" width="40" /></a>
 <a href="https://www.java.com/"><img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" /></a>
 <a href="https://www.cloudflare.com/"><img alt="cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" /></a>
 <a href="https://source.android.com/"><img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" width="40" /></a>
