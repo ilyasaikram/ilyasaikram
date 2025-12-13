@@ -1,6 +1,6 @@
 ## Hello i'm Ilyasa Alvirgia Ikram 
 
-Someone who has an interest in the field of computers, such as conducting several experiments using Linux, building and managing a server or network, conducting pentesting with several tools, besides that I also like graphic design, such as making posters, editing videos and photos, and I also have an interest in the field of Internet Of Think's such as creating several IoT projects with Arduino, and modify Android.
+I have an interest in the computer field, such as conducting several experiments using Linux, building and managing a server or network, conducting pentesting with several tools, besides that I also like graphic design, such as making posters, editing videos and photos, and I also have an interest in the field of Internet Of Think's such as creating several IoT projects with Arduino, and modify Android.
 
 ## <a href="https://icons8.com/"><img width="24" height="24" src="https://raw.githubusercontent.com/ilyasaikram/ilyasaikram/refs/heads/main/icon/skillset.png" alt="design"/></a> My Skillset
 
